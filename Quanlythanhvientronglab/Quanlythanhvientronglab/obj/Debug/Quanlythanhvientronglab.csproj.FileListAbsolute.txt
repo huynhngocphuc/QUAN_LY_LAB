@@ -1,0 +1,121 @@
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Form1.resources
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+C:\Users\Admin\Desktop\Project\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmGUI.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmHoSoNV.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmBangLuong.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmChucVu.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmPhanCong.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CopyComplete
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmCongViec.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmDuAn.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Guna.UI.dll
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.dll
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.xml
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmBangLuong.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmChucVu.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmCongViec.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmDuAn.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmGUI.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmHoSoNV.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmPhanCong.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CopyComplete
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Huynh Ngoc Phuc\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmTimKiem.resources
+C:\Users\Admin\Desktop\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmTimKiem.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.dll
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.dll
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.xml
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.xml
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmBangLuong.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmChucVu.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmCongViec.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmDuAn.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmGUI.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmHoSoNV.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmPhanCong.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmTimKiem.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CopyComplete
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\Quan-ly-thanh-vien-trong-lab\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.dll
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.dll
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.xml
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.xml
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmBangLuong.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmChucVu.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmCongViec.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmDuAn.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmGUI.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmHoSoNV.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmPhanCong.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmTimKiem.resources
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CopyComplete
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+D:\năm 2, học kì 2\lập trình trên windows\đồ án\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe.config
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.exe
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\Quanlythanhvientronglab.pdb
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.dll
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.xml
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csprojAssemblyReference.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmBangLuong.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmChucVu.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmCongViec.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmDuAn.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmGUI.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmHoSoNV.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Properties.Resources.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmPhanCong.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.Views.frmTimKiem.resources
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.GenerateResource.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.csproj.CopyComplete
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.exe
+C:\Users\Huynh Ngoc Phuc\Desktop\QUAN_LY_LAB\Quanlythanhvientronglab\Quanlythanhvientronglab\obj\Debug\Quanlythanhvientronglab.pdb
